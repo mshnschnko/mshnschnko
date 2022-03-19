@@ -52,4 +52,4 @@ I am a student and beginning developer <img src="https://media.giphy.com/media/W
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mshnschnko&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshnschnko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshnschnko&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -38,7 +38,7 @@ I am a student and beginning developer <img src="https://media.giphy.com/media/W
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"  alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch"  alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
@@ -51,6 +51,7 @@ I am a student and beginning developer <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/JetBrains/logos/blob/master/web/pycharm/pycharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/JetBrains/logos/blob/master/web/clion/clion.svg" title="CLion" alt="CLion" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
 </div>
 
 ---
